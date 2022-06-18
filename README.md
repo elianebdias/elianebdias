@@ -1,6 +1,7 @@
 ## 🖖🏻Hello World! eu sou a Eliane Barros
 
-🎓 Estudante Webdev Fullstack e AWS
+🎓 Estudante de Sistemas para Internet
+estudando os Bootcamps One Next Education, StartSE e Elas na Tech
 
 <div align="center">
   <a href="https://github.com/elianebdias">
