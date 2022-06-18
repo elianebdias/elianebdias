@@ -1,6 +1,6 @@
 ## 🖖🏻Hello World! eu sou a Eliane Barros
 
-🎓 Estudante de Sistemas para Internet
+🎓 Estudante de Sistemas para Internet <br>
 estudando os Bootcamps One Next Education, StartSE e Elas na Tech
 
 <div align="center">
