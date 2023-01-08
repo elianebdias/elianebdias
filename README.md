@@ -1,7 +1,7 @@
 ## 🖖🏻Hello World! eu sou a Eliane Barros
 
-🎓 Estudante de Sistemas para Internet <br>
-estudando os Bootcamps One Next Education, StartSE e Elas na Tech
+🎓 Estudante de ADS na Unyleia <br>
+estudando o Bootcamps Dio
 
 <div align="center">
   <a href="https://github.com/elianebdias">
