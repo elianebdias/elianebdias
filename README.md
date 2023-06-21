@@ -1,6 +1,6 @@
 ## 🖖🏻Hello World! eu sou a Eliane Barros
 
-🎓 Estudante de Ciências de Dados e Analise Comportamental <br>
+🎓 Estudante de Ciências de Dados <br>
 estudando o Bootcamps Dio / Elas na Tech / Match IBM
 
 <div align="center">
