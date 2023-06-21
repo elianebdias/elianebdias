@@ -1,7 +1,7 @@
 ## 🖖🏻Hello World! eu sou a Eliane Barros
 
-🎓 Estudante de ADS na Unyleia <br>
-estudando o Bootcamps Dio
+🎓 Estudante de Ciências de Dados e Analise Comportamental <br>
+estudando o Bootcamps Dio / Elas na Tech / Match IBM
 
 <div align="center">
   <a href="https://github.com/elianebdias">
